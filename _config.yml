@@ -22,7 +22,7 @@ url     : "https://rnaster.github.io" # the base hostname & protocol for your si
 baseurl : "" # does not include hostname
 title   : 왕밤빵
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  우유랑 같이 먹으면 꿀맛!
 
 
 ## => Language and Timezone
